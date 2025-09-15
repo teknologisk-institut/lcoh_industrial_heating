@@ -4,13 +4,13 @@ Calculates and visualizes the Levelized Cost of Heat (LCOH) for various industri
 
 ## Citation
 
-This code accompanies the findings published in 1). If you use this software or results in your work, please cite both of the following:
+This code accompanies the findings published in 1. If you use this software or results in your work, please cite both of the following:
 
 1. [paper]
 Markussen, W.B., Rosenow, J., Christensen, M.H., Zühlsdorf, B., Elmegaard, B., Techno-Economic Analysis of Technologies for Decarbonising Low- and Medium-Temperature Industrial Heat. Forthcoming.
 
 2. [Zenodo DOI Reference]  
-   Markussen, W.B., "lcoh_industrial_heating (Version 1.0)", Zenodo, 2025. [https://doi.org/xxxxxx/zenodo.xxxxxxx]
+   Markussen, W.B., "[Title to be decided] ", Zenodo, 2025. [https://doi.org/10.5281/zenodo.17121418]
 
 ## Features
 
